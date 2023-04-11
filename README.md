@@ -1,4 +1,4 @@
-# vue-x6-flow
+# bs-x6-demo
 
 **基于 antv-x6 vue 版本** vue2.x+ element +antv-x6 适用于流程图-dag 图
 
